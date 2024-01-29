@@ -1,4 +1,4 @@
-![Cove Photo]([http://url/to/img.png](https://i.imgur.com/38h7OUG.png))
+![Cover Photo](https://i.imgur.com/38h7OUG.png)
 - 👋 Hi, I’m @youssefali715
 - 👀 I’m interested in music 🎶
 - 🌱 I’m currently learning JS 👨‍💻
